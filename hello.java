@@ -14,4 +14,5 @@
      service:
       name: httpd
       state: started
+      state: absent 
 ...
