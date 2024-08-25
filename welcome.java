@@ -5,7 +5,7 @@ After I start the docker and kubernetes
 
 Then I will go for AWS
 
-<<<<<<< Updated upstream
+
 
 
 task 120 is in progress
@@ -19,4 +19,3 @@ j=30
 
 
 
->>>>>>> Stashed changes
