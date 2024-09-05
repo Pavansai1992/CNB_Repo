@@ -1,0 +1,3 @@
+[submodule "kubernetes_manifest_yml_files"]
+	path = kubernetes_manifest_yml_files
+	url = https://github.com/ashokitschool/kubernetes_manifest_yml_files.git
